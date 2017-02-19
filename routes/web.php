@@ -14,3 +14,4 @@
 Route::get('/', function () {
     return view('welcome');
 });
+// Ở đây có thay đổi
